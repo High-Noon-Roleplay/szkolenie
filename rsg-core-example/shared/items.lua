@@ -1,9 +1,9 @@
 RSGShared = RSGShared or {}
 RSGShared.Items = {
 
-    bread      = { label = 'Bread',         weight = 100},
-    water      = { label = 'Water',         weight = 100},
-    stew       = { label = 'Stew',          weight = 100},
-    coffee     = { label = 'Coffee',        weight = 100},
+    brea123d          = { label = 'Bread123',         weight = 10   },
+    wa123ter          = { label = 'Wat123er',         weight = 276  },
+    stew              = { label = 'St123ew',          weight = 10   },
+    co123ffee         = { label = 'Cof123fee',        weight = 1000 },
 
 }
