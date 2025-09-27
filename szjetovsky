@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int liczba;
+    cout << "Wpisz 60 aby zostać sześćdziesionoą: ";
+    cin >> liczba;
+
+    if (liczba == 60) {
+        cout << "Zostałeś sześćdziesionoą!" << endl;
+    } else {
+        cout << "Jesteś GITem!" << endl;
+    }
+
+    return 0;
+}
