@@ -6,5 +6,7 @@ RSGShared.Items = {
     stew       = { label = 'Gulasz',      weight = 10430},
     coffee     = { label = 'Kawa',        weight = 1060},
 
+    leczo      = { label = 'Leczo',       weight = 2000},
 
+    asdiyuaghwuyhd = { label = 'Asdiyuaghwuyhd', weight = 10000},
 }
