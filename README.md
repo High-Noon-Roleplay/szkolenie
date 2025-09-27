@@ -1,2 +1,2 @@
-# szkolenie
-Repozytorium na szkolenie github
+# Szkolenie z GIT i GitHub
+Repozytorium na część praktyczną szkolenia.
