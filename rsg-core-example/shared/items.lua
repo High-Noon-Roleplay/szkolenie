@@ -9,4 +9,6 @@ RSGShared.Items = {
     leczo      = { label = 'Leczo',       weight = 2000},
 
     asdiyuaghwuyhd = { label = 'Asdiyuaghwuyhd', weight = 10000},
+
+    sdiyuaghwuyhd = { label = 'Asdiyuaghwuyhd', weight = 10000, description = 'Opis przedmiotu'},
 }
